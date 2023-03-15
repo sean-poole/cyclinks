@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  /* background-image: url(./background2.jpg); */
+  background-color: rgb(40, 40, 40);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
